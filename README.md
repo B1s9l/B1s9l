@@ -3,11 +3,7 @@
 ![Coding Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## About Me
-I am a computer science student passionate about coding and open-source contributions.
-
-## My Skills
-- Programming Languages: Python, JavaScript, C++
-- Web Development: HTML, CSS, React, Node.js
+I am a computer science student.
 
 ## Animated SVG
 <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
