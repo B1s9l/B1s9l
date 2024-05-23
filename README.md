@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**B1s9l/B1s9l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Coding Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-Here are some ideas to get you started:
+## About Me
+I am a computer science student passionate about coding and open-source contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- Programming Languages: Python, JavaScript, C++
+- Web Development: HTML, CSS, React, Node.js
+
+## Animated SVG
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="10">
+    <animate attributeName="r" from="10" to="40" dur="0.5s" repeatCount="indefinite" />
+  </circle>
+</svg>
